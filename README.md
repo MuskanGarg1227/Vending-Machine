@@ -10,5 +10,6 @@ The system is modeled using a Mealy Machine State Diagram with three states:
 The project involves designing the logic, specifying inputs and outputs, implementing the state machine, and creating control logic. 
 A testbench was developed to simulate and verify the system, ensuring accurate functionality for various inputs, including valid and excess payments, correct change returns, and proper state transitions. 
 The goal was to create a robust and error-free vending machine system capable of handling all possible scenarios effectively.
+
 ![image](https://github.com/user-attachments/assets/707cf396-38ac-4354-b55e-218ea6d33297)
 
